@@ -17,7 +17,7 @@ Minimum <a href="#memory-consumption">RAM requirements</a>
 # Installation
 
 ```
-$ git clone https://github.com/Isaacdelly/Plutus.git plutus
+$ git clone https://github.com/ryantavares04/btc-force.git
 
 $ cd plutus && pip3 install -r requirements.txt
 ```
